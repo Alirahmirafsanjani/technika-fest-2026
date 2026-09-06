@@ -69,8 +69,3 @@ Feedback
      │
      ▼
 Certificate
-
-
-** ## Project Structure
-**
-The project follows the standard Laravel application structure.
